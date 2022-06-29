@@ -1,3 +1,11 @@
+head {
+    span#rowEven {
+    background-color: #BABABA;
+}
+    span#rowOdd {
+    background-color: white;
+}
+
 body {
 background-color: lightblue;
 }
