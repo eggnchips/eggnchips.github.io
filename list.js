@@ -242,4 +242,3 @@ function bytesToHumanReadable(sizeInBytes) {
   } while (sizeInBytes > 1024);
   return Math.max(sizeInBytes, 0.1).toFixed(1) + units[i];
 }
-
